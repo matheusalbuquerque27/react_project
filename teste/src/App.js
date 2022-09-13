@@ -24,6 +24,7 @@ function App() {
       <Lista itens={meusItens}/>
       <Lista itens={meusItens2}/>
       <Lista itens={Countries}/>
+      <Lista itens={Fruits}/>
     </div>
   );
 }
