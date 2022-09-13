@@ -9,6 +9,7 @@ function App() {
 
   const meusItens = ['React', 'JavaScript', 'Java', 'GoLang']
   const meusItens2 = []
+  const Countries = ['Japan', 'China', 'EUA']
 
   return (
     <div className="App">
@@ -21,6 +22,7 @@ function App() {
       <Form />
       <Lista itens={meusItens}/>
       <Lista itens={meusItens2}/>
+      <Lista itens={Countries}/>
     </div>
   );
 }
