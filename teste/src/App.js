@@ -10,6 +10,7 @@ function App() {
   const meusItens = ['React', 'JavaScript', 'Java', 'GoLang']
   const meusItens2 = []
   const Countries = ['Japan', 'China', 'EUA']
+  const Fruits = ['Lemon', 'Orange', 'Strawberry']
 
   return (
     <div className="App">
